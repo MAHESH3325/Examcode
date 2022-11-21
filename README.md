@@ -1,2 +1,0 @@
-# Examcode
-new repo
